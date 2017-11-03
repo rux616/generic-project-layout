@@ -1,0 +1,7 @@
+# Ignore contents of every project's bin, build, and lib directories
+bin/*
+build/*
+lib/*
+
+# Use .keep files to sketch out folder structure
+!.keep
